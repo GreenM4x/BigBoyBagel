@@ -1,0 +1,7 @@
+--------------------[RECHNUNG]--------------------
+[2023-07-13] | RECHNUNGS-NUMMER: 0
+The Big Boy - 0 Total: 0.0
+Vegi Boy - 2 Total: 21.98
+Sugar Boy - 3 Total: 16.5
+Discound: 0.0%
+TOTAL: 38.48

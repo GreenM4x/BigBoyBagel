@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BigBoyBagel:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/BigBoyBagel_jar</output-path>
+    <root id="archive" name="BigBoyBagel.jar">
+      <element id="module-output" name="BigBoyBagel" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../../connectors/mariadb-java-client-2.4.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

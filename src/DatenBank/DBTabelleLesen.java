@@ -1,7 +1,6 @@
 package DatenBank;
 
 import java.sql.*;
-import java.util.List;
 
 public class DBTabelleLesen implements Daten {
 

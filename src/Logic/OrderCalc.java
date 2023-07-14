@@ -40,7 +40,7 @@ public class OrderCalc {
     }
 
 
-    public static void Order() throws IOException {
+    public static void Order() {
 
         double total = GetTotalValue();
         try {
